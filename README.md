@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm a CS undergrad @Jaypee Institute of Information Technology.<br><br>- 🔭 I’m interested and exploring in the IT field.<br>- 📚 I'm currently learning Advanced Java and mastering DSA.<br>- 📚 I'm currently doing hand-on practice on MERN Stack development.<br>⚡Ping me at my linkedin to reach me.</p>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥 My Stats :</h3>
 
 ###
 
