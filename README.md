@@ -1,8 +1,5 @@
 <div align="center">
 <div align="center">
- <span>Ping me here...  </span> <a href="https://www.linkedin.com/in/keshav-singh-solanki-4a52011b5/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
-</div>
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
@@ -11,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a CS undergrad @Jaypee Institute of Information Technology.<br><br>- 🔭 I’m interested and exploring in the IT field.<br>- 📚 I'm currently learning Advanced Java and mastering DSA.<br>- 📚 I'm currently doing hand-on practice on MERN Stack development.<br>⚡Ping me at my linkedin to reach me.</p>
+<p align="left">I'm a CS undergrad @Jaypee Institute of Information Technology.<br><br>- 🔭 I’m interested and exploring in the IT field.<br>- 📚 I'm currently learning Advanced Java and mastering DSA.<br>- 📚 I'm currently doing hand-on practice on MERN Stack development.<br>⚡Ping me at my linkedin to reach me.  <a href="https://www.linkedin.com/in/keshav-singh-solanki-4a52011b5/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a></p>
 
 ###
 
@@ -25,19 +22,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="52" height="50" alt="C++"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" alt="ruby logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" height="40" alt="circleci logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
